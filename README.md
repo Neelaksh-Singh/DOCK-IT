@@ -12,4 +12,5 @@
   </li>
 </p>
 
-### A piece of advice -> Use "Ctrl + u" to view output of your terminal
+#### A piece of advice -> Use "Ctrl + u" to view output of your terminal
+## To start the services run the main.py file using python
