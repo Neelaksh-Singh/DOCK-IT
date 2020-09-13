@@ -11,3 +11,5 @@
     
   </li>
 </p>
+
+### A piece of advice -> Use "Ctrl + u" to view output of your terminal
