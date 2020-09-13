@@ -1,0 +1,10 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/dockit",
+    "fb_url": "https://facebook.com/codingthunder",
+    "gmail-user": "neelaksh48@gmail.com",
+    "gmail-password": "urpwd"
+  }
+}
